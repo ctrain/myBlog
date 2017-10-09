@@ -113,7 +113,7 @@ code_block: 1  # Value: 0 - 27 可选
 blockquote_style: 0  # Value: 0 - 7 可选
 
 
-heading_style: 0
+heading_style: 1
 
 list_style: 0
 
